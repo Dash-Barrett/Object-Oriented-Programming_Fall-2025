@@ -1,0 +1,8 @@
+1. ls (list) - Shows content of the current directory
+2. cd <directory name> - change directory
+3. mkdir <directory name> - makes folder
+4. code <file_name> - creates a file and opens it in the editor
+5. clear - clears the terminal window
+6. ctrl + b - shows/hides the explorer
+7. ctrl + ~ - show/hide terminal
+8. ./a.out - allows compiled code to run i guess
